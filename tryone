@@ -1,0 +1,12 @@
+PS C:\Users\ASUS VIVOBOOK> mkdir vote-ideas-app && cd vote-ideas-app && npm init -y
+At line:1 char:22
++ mkdir vote-ideas-app && cd vote-ideas-app && npm init -y
++                      ~~
+The token '&&' is not a valid statement separator in this version.
+At line:1 char:43
++ mkdir vote-ideas-app && cd vote-ideas-app && npm init -y
++                                           ~~
+The token '&&' is not a valid statement separator in this version.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+
+PS C:\Users\ASUS VIVOBOOK>
